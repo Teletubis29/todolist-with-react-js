@@ -1,4 +1,5 @@
-C:\Users\TUF\Pictures\Screenpresso\2022-05-21_05h02_10.mp4
+![image](https://user-images.githubusercontent.com/90789950/169618848-b1bc71e2-9c37-4ebe-8f58-3989fc97f279.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
